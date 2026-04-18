@@ -50,4 +50,3 @@ and which teams, venues, and players consistently outperform?
 | Jupyter Notebook | Interactive analysis |
 
 
-## Project Structure
