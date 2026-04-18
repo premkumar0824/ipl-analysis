@@ -49,6 +49,3 @@ and which teams, venues, and players consistently outperform?
 | Seaborn | Statistical plots |
 | Jupyter Notebook | Interactive analysis |
 
----
-
-## Project Structure
